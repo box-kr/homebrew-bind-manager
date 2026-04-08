@@ -1,6 +1,6 @@
 cask "bind-manager" do
-  version "1.0.0"
-  sha256 "348c8a264f54d8aa3333a552c2d104385f4059687448e5168ccc3dbadc482c2e"
+  version "1.0.1"
+  sha256 "4e90677f511b9443c7bdd466a54886faf6a77dab9bc543fed2b7ca851cd50936"
 
   url "https://github.com/box-kr/bind-manager/releases/download/v#{version}/BindManager-#{version}.zip"
   name "Bind Manager"
